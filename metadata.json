@@ -1,0 +1,6 @@
+{
+  "name": "SMART DRINK POS",
+  "description": "Smart Drink POS - Ichimliklar do'koni uchun professional savdo, ombor va boshqaruv tizimi (CEO, Kassir va Mijozlar uchun).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
